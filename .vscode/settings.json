@@ -1,0 +1,20 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.wordBasedSuggestions": false,
+    "diffEditor.codeLens": true,
+    "editor.definitionLinkOpensInPeek": false,
+    "editor.formatOnType": true
+  },
+  "mypy-type-checker.args": ["--strict", "--ignore-missing-imports", "--show-column-numbers"],
+  "python.linting.mypyEnabled": true,
+  "python.linting.enabled": true,
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.defaultFormatter": null
+}
