@@ -18,6 +18,4 @@ pycodestyle==2.11.0
 pytest==7.4.0
 tomlkit==0.12.1
 typing_extensions==4.7.1
-# Editable install with no version control (UNKNOWN==0.0.0)
--e c:\users\kohgu\onedrive\desktop\guan zeh\coding katas
 wrapt==1.15.0
