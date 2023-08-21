@@ -16,5 +16,6 @@
   "python.linting.mypyEnabled": true,
   "python.linting.enabled": true,
   "python.analysis.typeCheckingMode": "basic",
-  "editor.defaultFormatter": null
+  "editor.defaultFormatter": null,
+  "python.envFile": "${workspaceFolder}/.venv"
 }
